@@ -2,3 +2,36 @@
     height: 100vh;
     font-family: 'Open Sans', monospace;
 }
+
+.card-header {
+    background-color: #17b817;
+}
+
+.card-body {
+    background-color: #a9c5cc;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    }
+    
+#answerField {
+    color: red;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.m-0 {
+    color: blueviolet;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: xx-large;
+}
+
+#btnRetry {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: large;
+}
+
+.card-footer {
+    background-color: rgb(43, 226, 98);
+}
